@@ -1,0 +1,6 @@
+4
+blue orange
+Rectangle 1 180 284 562 268 blue orange 
+Hexagon 2 253 453 blue orange 
+Hexagon 3 614 303 blue orange 
+Hexagon 4 414 349 blue orange 
